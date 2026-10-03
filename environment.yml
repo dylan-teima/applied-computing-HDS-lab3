@@ -1,0 +1,7 @@
+name: lab3
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14.7
+  - pandas=3.0.6
+  - numpy=2.5.3

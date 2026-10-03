@@ -1,0 +1,61 @@
+sample_id,glucose_mg_dl,patient_name,dob,sex,enrollment_site,notes,glucose_flag,glucose_qc
+S0001,145.9,A. Nguyen,1962-07-09,Female,Site B,,,ok
+S0002,146.1,T. Patel,1974-12-16,Male,Site C,,,ok
+S0003,84.2,R. Martinez,2053-11-24,Female,Site B,,,ok
+S0004,120.0,A. Patel,1957-02-27,Female,Site B,,,ok
+S0005,138.3,B. Martinez,1997-12-02,Male,Site B,,,ok
+S0006,2881.1,R. Kim,1968-12-05,Female,Site C,,,review_unit_or_value
+S0007,206.0,T. Martinez,1969-09-04,Unknown,Site A,,,ok
+S0008,229.3,K. Davis,1999-08-20,Female,Site C,,,ok
+S0009,185.0,S. Davis,1995-07-19,Male,Site C,,,ok
+S0010,215.2,A. Martinez,1951-10-01,Female,Site C,re-draw requested,,ok
+S0011,2973.0,B. Davis,2061-07-09,Male,Site A,,,review_unit_or_value
+S0012,110.4,T. Johnson,1996-06-07,Unknown,Site A,re-draw requested,,ok
+S0013,2032.5,A. Patel,1952-10-26,Female,Site B,,,review_unit_or_value
+S0014,144.0,K. Kim,2058-09-12,Female,Site B,,,ok
+S0015,1855.9,B. Patel,1998-02-11,Male,Site B,,,review_unit_or_value
+S0016,157.4,A. Davis,1958-05-15,Unknown,Site B,,,ok
+S0017,123.4,K. Nguyen,2015-07-16,Unknown,Site A,,,ok
+S0018,82.2,J. Smith,1957-03-10,Female,Site B,,,ok
+S0019,190.6,B. Kim,2000-09-16,Male,Site A,,,ok
+S0020,108.4,B. Smith,2000-07-05,Female,Site B,,,ok
+S0021,88.6,K. Davis,2004-11-16,Male,Site C,,,ok
+S0022,233.0,M. Johnson,2006-11-25,Unknown,Site A,,,ok
+S0023,83.5,S. Lee,1999-06-30,Male,Site A,,,ok
+S0024,114.9,S. Johnson,1953-07-31,Female,Site C,,,ok
+S0025,202.6,M. Lee,2065-11-19,Male,Site A,,,ok
+S0026,3909.9,J. Garcia,2053-06-22,Female,Site A,,,review_unit_or_value
+S0027,161.7,T. Johnson,1956-03-24,Female,Site C,,,ok
+S0028,179.1,S. Smith,1988-12-26,Female,Site B,,,ok
+S0029,222.6,M. Johnson,2009-08-04,Female,Site C,,,ok
+S0030,168.6,M. Kim,1984-01-06,Male,Site B,,,ok
+S0031,85.3,K. Brown,1995-11-11,Male,Site C,,,ok
+S0032,229.5,J. Smith,1992-08-17,Unknown,Site B,,,ok
+S0033,114.9,B. Kim,2012-06-07,Male,Site B,,,ok
+S0034,3673.9,K. Martinez,1995-04-15,Unknown,Site A,,,review_unit_or_value
+S0035,130.5,K. Patel,1956-12-13,Female,Site A,,,ok
+S0036,145.6,T. Johnson,1987-04-21,Unknown,Site C,,,ok
+S0037,2146.0,T. Kim,2015-11-28,Unknown,Site A,re-draw requested,,review_unit_or_value
+S0038,171.6,K. Lee,1997-12-02,Unknown,Site B,,,ok
+S0039,4346.0,R. Patel,1980-04-12,Male,Site C,,*,review_unit_or_value
+S0040,105.9,R. Patel,2008-06-21,Male,Site A,,,ok
+S0041,89.5,K. Nguyen,1965-01-20,Male,Site A,,,ok
+S0042,209.0,M. Garcia,2006-04-10,Female,Site C,,*,ok
+S0043,148.0,B. Davis,2051-02-19,Unknown,Site A,,,ok
+S0044,218.6,S. Martinez,1998-04-13,Unknown,Site B,,,ok
+S0045,223.2,K. Martinez,1984-01-01,Male,Site B,,,ok
+S0046,143.2,S. Davis,1967-02-21,Female,Site C,,,ok
+S0047,2983.8,M. Kim,1977-06-21,Unknown,Site B,,,review_unit_or_value
+S0048,1962.2,M. Garcia,1978-04-23,Male,Site A,,,review_unit_or_value
+S0049,166.1,M. Nguyen,1966-02-05,Male,Site C,re-draw requested,,ok
+S0050,149.3,K. Garcia,2001-07-02,Unknown,Site B,,,ok
+S0051,216.0,K. Garcia,2011-08-02,Male,Site A,,,ok
+S0052,172.4,M. Davis,1989-09-20,Unknown,Site A,,,ok
+S0053,2585.6,B. Lee,1999-07-10,Male,Site A,,,review_unit_or_value
+S0054,168.0,M. Nguyen,2006-01-28,Unknown,Site A,,,ok
+S0055,2884.7,S. Brown,2011-10-14,Unknown,Site A,,,review_unit_or_value
+S0056,77.2,A. Garcia,2010-06-30,Male,Site B,,,ok
+S0057,88.8,K. Garcia,1986-08-20,Female,Site C,,,ok
+S0058,142.8,A. Brown,1972-08-23,Female,Site C,,,ok
+S0059,2682.9,K. Brown,1968-04-06,Male,Site A,,,review_unit_or_value
+S0060,186.6,A. Davis,1970-02-27,Unknown,Site A,,,ok

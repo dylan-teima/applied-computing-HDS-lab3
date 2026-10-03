@@ -1,0 +1,56 @@
+# ----------------------------------
+# Raw course data
+# ----------------------------------
+data/
+
+# Local validation/testing artifact
+VALIDATION.txt
+
+# Not used because environment.yml defines the Python environment
+requirements.txt
+
+# ----------------------------------
+# Secrets
+# ----------------------------------
+.env
+
+# ----------------------------------
+# Python
+# ----------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ----------------------------------
+# Jupyter
+# ----------------------------------
+.ipynb_checkpoints/
+
+# ----------------------------------
+# R / RStudio
+# ----------------------------------
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+
+# ----------------------------------
+# Quarto / knitr
+# ----------------------------------
+	.quarto/
+*_cache/
+
+# ----------------------------------
+# OS-generated files
+# ----------------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------------
+# IDE-specific settings
+# ----------------------------------
+.vscode/
+.idea/
